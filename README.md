@@ -4,4 +4,3 @@ This project contains content in html, css and javascript format. The file will 
 
 I chose the general license v3.0 because it gives the user the knowledge this project has an official license and the rules that the user will have to follow to modify the content safely. With this license anyone who modifies or edits the content in this repository will have to indicate what changes they have made. This license gives user the authority to use the repository privately.
 
-This change will be committed and then reverted!!
